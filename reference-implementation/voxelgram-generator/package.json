@@ -1,0 +1,38 @@
+{
+  "name": "fvi-voxelgram-generator",
+  "version": "1.0.0",
+  "description": "Interactive tool for generating Fritzian Volumetric Indexing (FVI) files from mathematical surfaces",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@react-three/fiber": "^8.15.12",
+    "@react-three/drei": "^9.92.7",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  },
+  "keywords": [
+    "voxel",
+    "fvi",
+    "fritzian-volumetric-indexing",
+    "3d",
+    "nonogram",
+    "voxelgram"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/otfdp/fritzian-volumetric-indexing.git"
+  }
+}
