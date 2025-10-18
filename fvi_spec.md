@@ -377,7 +377,7 @@ d⃗(θ,φ) = (sin φ cos θ, sin φ sin θ, cos φ)
 **Current version**: 1.0
 
 **Version history**:
-- 1.0 (2024): Initial specification
+- 1.0 (2025): Initial specification
 
 **Compatibility policy**:
 - Major version changes may break backward compatibility
@@ -417,5 +417,5 @@ See `/reference-implementation` directory for:
 ---
 
 **Document Version**: 1.0  
-**Last Updated**: October 2024  
+**Last Updated**: October 2025  
 **Status**: Draft Specification
