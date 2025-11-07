@@ -191,12 +191,12 @@ If you use Fritzian Volumetric Indexing in research or publications, please cite
 
 ```
 Fritzian Volumetric Indexing: A Surface-Relative Framework for Volumetric Data Encoding
-https://github.com/[your-username]/fritzian-volumetric-indexing
+https://github.com/otfdp/fritzian-volumetric-indexing
 ```
 
 ## Author
 
-Created by [Your Name] for the game "Build by Voxelgram"
+Created by Michael Fritz for the game "Build by Voxelgram"
 
 ---
 

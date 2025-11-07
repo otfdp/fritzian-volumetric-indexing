@@ -256,7 +256,7 @@ Contributors will be recognized in:
 
 - **General questions**: Open a GitHub Discussion
 - **Bug reports**: Create an Issue
-- **Security concerns**: Email [your-email] directly
+- **Security concerns**: Email mfritz@otfdp.com directly
 - **Specification questions**: Reference SPECIFICATION.md or ask in Discussions
 
 ## License
